@@ -1,3 +1,5 @@
+package Application;
+
 import Application.UI;
 import boardgame.Board;
 import boardgame.Position;
